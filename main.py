@@ -1,3 +1,6 @@
+""" Python3 docu-docu """
+"""
+"""
 import psutil, GPUtil
 """@~@"""
 cpu_temp = psutil.sensors_temperatures()['k10temp'][0].current
