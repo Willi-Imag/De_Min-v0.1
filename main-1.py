@@ -11,9 +11,9 @@ _clock = pygame.time.Clock()
 _display = pygame.display
 _screen = _display.set_mode((264, 264), pygame.NOFRAME)
 
-images = [pygame.image.load('images/De_Min_0.png'),
-         pygame.image.load('images/De_Min_1.png'),
-         pygame.image.load('images/De_Min_2.png')]
+images = [pygame.image.load('images/de_min-0.png'),
+         pygame.image.load('images/de_min-1.png'),
+         pygame.image.load('images/de_min-2.png')]
 
 running = True
 
